@@ -1,0 +1,9 @@
+*__pycache__*
+srnn-pytorch-cuda
+srnn-8
+save-beijing-16
+log-beijing-16
+pems
+qtraffic
+beijing/*.csv
+road_chain
